@@ -67,7 +67,7 @@ a {
 
 .homepage {
     position: relative;
-    background-image: url('/task-1/mockup-2/public/img-home.jpeg');
+    background-image: url('./public/img-home.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
