@@ -12,6 +12,7 @@ body {
     color: black;
     overflow-x: hidden;
     height: 140rem;
+
 }
 
 header {
@@ -66,7 +67,7 @@ a {
 
 .homepage {
     position: relative;
-    background-image: url('img-home.jpeg');
+    background-image: url('/task-1/mockup-2/public/img-home.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
